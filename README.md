@@ -2,7 +2,7 @@
 
 # Hi, I'm Prama Chowdhury
 
-I am an experienced MERN Stack Developer with a strong background in MongoDB, Express.js, React, and Node.js. Passionate about creating user-centric web applications, I am eager to leverage my expertise in innovative projects. I am seeking collaborative opportunities to excel in web development, tackle challenges, and deliver impactful solutions.
+As a seasoned MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js, I am dedicated to developing user-focused web applications. My passion lies in applying my skills to drive innovation and create impactful solutions. I am actively seeking collaborative opportunities to enhance my proficiency in web development, overcome challenges, and contribute to groundbreaking projects.
 
 <div align="center">
 
