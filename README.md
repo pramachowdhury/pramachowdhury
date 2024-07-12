@@ -1,4 +1,4 @@
-# ![Banner Image](https://i.ibb.co/Y8rpYcz/Black-Technology-Linked-In-Banner.png)
+# ![Banner Image](https://i.ibb.co/bNdVb8y/Black-Technology-Linked-In-Banner.png)
 
 # Hi, I'm Prama Chowdhury
 
